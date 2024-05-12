@@ -1,2 +1,5 @@
-# python-projects
-A collection of python projects done in spare time
+# Python projects 🐍
+
+A collection of Python projects done in spare time.
+
+- BlackJack
