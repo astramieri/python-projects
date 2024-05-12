@@ -2,4 +2,4 @@
 
 A collection of Python projects done in my spare time.
 
-- BlackJack
+1. BlackJack
