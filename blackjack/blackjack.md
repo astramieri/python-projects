@@ -16,4 +16,4 @@ The game follows the standard rules of BlackJack, where the player tries to beat
 
 ## Screenshots
 
-![alt text](image.png)
+![BlackJack](./blackjack.png)
