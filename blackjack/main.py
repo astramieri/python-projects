@@ -9,12 +9,13 @@ cards = ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K']
 
 def new_card():
     """Returns a random card from the deck."""
-    #return cards[random.randint(1, len(cards))]
+
     card = random.choice(cards)
     return card
 
 def calculate_score(cards):
     """Returns the score calculated from the cards."""
+    
     score = 0
 
     for card in cards:
