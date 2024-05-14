@@ -37,6 +37,8 @@ def calculate_score(cards):
     return score
 
 def compare_score(user_score, computer_score):
+    """Compare the user and computer score."""
+
     if user_score == computer_score:
         return "Draw 🙃"
     elif computer_score == 0:
