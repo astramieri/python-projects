@@ -1,6 +1,6 @@
 # Coffee Machine ☕
 
-This is a funny implementation of a coffee machine. 
+This is a funny implementation of a coffee vending machine. 
 
 ## How to play
 
