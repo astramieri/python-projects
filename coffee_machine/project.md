@@ -13,4 +13,4 @@ This is a funny implementation of a coffee vending machine.
 
 ## Screenshots
 
-![Coffee Machine](./coffee_machine.png)
+![Coffee Machine](coffee_machine.png)
