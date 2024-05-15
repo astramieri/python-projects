@@ -5,6 +5,7 @@ menu = {
             "coffee": 20,
         },
         "cost": 1.5,
+        "emoji": "☕"
     },
     "latte": {
         "ingredients": {
@@ -13,6 +14,7 @@ menu = {
             "coffee": 30,
         },
         "cost": 2.5,
+        "emoji": "🥛"
     },
     "cappuccino": {
         "ingredients": {
@@ -21,6 +23,7 @@ menu = {
             "coffee": 25,
         },
         "cost": 3.0,
+        "emoji": "🥃"
     }
 }
 

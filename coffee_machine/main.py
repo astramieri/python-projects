@@ -100,7 +100,8 @@ def start_machine():
                     if extra > 0:
                         print(f"Here is ${extra} dollars in change.")
 
-                    print(f"Here is your beverage. Enjoy!")
+                    print(f"Here is your beverage: {product["emoji"]}")
+                    print(f"Enjoy!")
 
         print("")
 
